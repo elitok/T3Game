@@ -2,6 +2,7 @@
 This is an implementation of the known pen-and-paper game Tic Tac Toe.
 
 Specification:
+
     Playground
     +---+---+---+
     | O |   | X |
